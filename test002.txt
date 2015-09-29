@@ -1,0 +1,64 @@
+ECAI Workshop
+Culture, Technology, and Collaboration
+
+September 27-29th
+In Conjunction with PNC 2015
+University of Macau
+
+See: PNC 2015
+
+In conjunction with the PNC 2015 conference, the ECAI Workshop will highlight recent initiatives and affiliate activities in related areas including: cultural heritage visualization, historical mapping, digital humanities, language analysis, infrastructure for collaboration, and technologies for cultural atlases. Several sessions will highlight the ongoing Maritime Buddhism Project and we are pleased to include presentations be given by particpants in the new Asia-Pacific SpatioTemporal Institute at National Chengchi University in Taiwan.
+
+September 27, 2015
+11:15-12:45 Maritime Buddhism - China 
+Moderator: Prof. Lewis Lancaster
+
+Alex Amies, "Propagation of Buddhism to, from, and within China by Water"
+Prof. Darui Long, "Chinese Sources on Maritime Silk Road and the Spread of Buddhism"
+Dr. Thomas H. Hahn, "China's Grand Canal - Dimensions of History, Dimensions of Data"
+Prof. Ching-chih Lin, "GIS on Chinese Religious Networks"
+16:00-17:30 Maritime Buddhism - South and SE Asia 
+Moderator: Prof. Hal Thwaites
+
+Dayalan Duraiswamy, "Archaeological Evidences of Maritime Silk Route"
+Prof. David Blundell, "Austronesian Navigation and Atlas of Maritime Buddhism: Early Transport Networks of Religious Systems in the Indian Ocean and Monsoon Asia"
+September 28, 2015
+10:00-11:30 New Views of Historical Cultures 
+Moderator: Prof. Wayne de Fremery
+
+Prof. Hal Thwaites, "Textile Tales of Pua Kumbu"
+Prof. Lewis Lancaster, "Cultural Abandonment - Buddhist Ruins"
+Prof. Puay Peng Ho, "Iconography and Representations: Rethinking Research in Religious Art"
+Prof.Ven. Guang Xing, "Filial Piety and Political Issues in Ancient China"
+12:30-14:00 Text and Culture 
+Moderator: Howie Lan
+
+Hui Ping Lee and Cheah Shen Yap, "From Derivation of Meaning to a Prototype of Meaning Processing System"
+Dr. John Sie Yuen Lee, "Conversational network in the Chinese Buddhist Canon"
+Prof. Wayne de Fremery, "New Forms of Analytical Philology"
+Prof. Ann Heylen, "17th Century Dutch Formosa: Case Study of Mobility through Historical GIS"
+14:10-15:40 Buddhism: Texts, Databases and Culture
+Moderator: Alex Amies
+
+Ven Miaolung SHIH, "An Historical Exploration of Buddhist Texts Modernization in Foguangshan"
+Marju Broder, "Estonian Nyingma and Databases"
+Henri Lebedev, "China Buddhism Encyclopedia Website Database"
+Ryan McDermott, "Buddhism & Australia conferences"
+September 29, 2015
+10:30-12:00 Technology for Cultural Data Projects
+Moderator: Prof. Ching-chih Lin
+
+Hsuing-Ming Liao w/ Yao-Hsien Yeh & Chen-Jen Lee, "ECAI Data Portal and new 4D GIS Platform"
+Jeanette Zerneke, "Technology for the Atlas of Maritime Buddhism and ECAI Data Portal"
+Prof. Jihn-Fa Jan, "Application of WebGIS and VGI for Community Based Cultural Resources Inventory"
+Howie Lan, "Technology to Make Cultural Data Available to the Public"
+13:30-15:00 Space-time, Networks and Identity 
+Moderator: Prof David Blundell
+
+Prof. Daya (Da-Wei Kuan), "Community Mapping, Traditional Territory Survey and Indigenous Land Rights: Experience from Taiwan"
+Prof. Oliver Steiter & James Morris, "Researching Taiwan's Gravesites with ThakBong and R"
+Lucy Gunn, "Interactive Mapping of Taipei Window Grilles: Tracing Styles and Trends"
+Janet Tan, "Economic Cluster Mapping Using GIS Tools"
+15:30-17:00 Atlas of Maritime Buddhism 15:30 - 17:00
+
+ECAI Atlas team and collaborators - Atlas Development discussion and planning session
